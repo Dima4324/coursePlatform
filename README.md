@@ -68,13 +68,13 @@
             <td>Remove-course</td>
             <td>PATCH</td>
             <td>name, deleted</td>
-            <td style="text-align:center">-</td>
+            <td style="text-align:center">+</td>
         </tr>
         <tr>
             <td>Add-lesson</td>
             <td>POST</td>
             <td>courseName, title, content</td>
-            <td style="text-align:center">-</td>
+            <td style="text-align:center">+</td>
         </tr>
          <tr>
             <td>Search-lessons</td>
